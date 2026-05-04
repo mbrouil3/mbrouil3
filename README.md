@@ -1,10 +1,9 @@
 ### Hello and welcome! / Bonjour et bienvenue! 
 # 
 I am Mike, a Db2 DBA & Linux/Unix/AIX systems analyst & avid homelabber.  </br>  </br>
-At the moment, this github serves as a repository for my personal scripts that have graduated from "homelab-only" to "should be shared with the world". </br>
-I anticipate uploading db2-centric code/scripts for public use soon...(tm). </br> </br>
+This github currently contains my personal scripts that have graduated out of "homelab-only" status. </br> </br>
 Currently learning Python. </br> </br>
-More to come. Cheers!
+Cheers!
 # 
 
 <!--
